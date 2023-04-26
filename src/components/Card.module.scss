@@ -1,0 +1,16 @@
+.root {
+ height: 100%;
+ .content {
+  .image {
+   width: 200px;
+   height: 200px;
+  }
+  p > span {
+   color: #dddde7;
+   font-weight: 600;
+  }
+ }
+ .btn {
+  margin-bottom: 24px;
+ }
+}
